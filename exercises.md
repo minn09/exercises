@@ -16,33 +16,33 @@
   1. Devuelva un nuevo objeto, pero con la ciudad cambiada a 'Barcelona'.
   2. Devuelva la edad utilizando destructuración.
 
-## **Ejercicio 4 - Funciones de Orden Superior (map, filter, reduce)**
+## **Ejercicio 4 - Funciones de Orden Superior (map, filter, reduce)** X
 
 - Crea un array de objetos que represente productos con propiedades `nombre`, `precio` y `categoria`. Escribe una función que:
   1. Devuelva un array con los nombres de los productos cuyo precio sea mayor a 50.
   2. Calcule el precio total de los productos de una determinada categoría.
 
-## **Ejercicio 5 - Objetos y Clases**
+## **Ejercicio 5 - Objetos y Clases** X
 
 - Crea una clase `Vehiculo` que tenga propiedades como `marca`, `modelo` y `año`. Luego, crea una subclase `Auto` que herede de `Vehiculo` y tenga una propiedad adicional `puertas`. Implementa un método que describa el vehículo de forma legible.
 
-## **Ejercicio 6 - Asincronía: Promesas y Async/Await**
+## **Ejercicio 6 - Asincronía: Promesas y Async/Await** X
 
 - Simula una llamada a una API con una promesa que devuelva un objeto después de 2 segundos. Luego, crea una función `async` que haga uso de `await` para obtener y mostrar la respuesta de la API simulada.
 
-## **Ejercicio 7 - Manejo de Errores (Try/Catch)**
+## **Ejercicio 7 - Manejo de Errores (Try/Catch)** X
 
 - Extiende el ejercicio anterior. Si la llamada a la API tarda más de 1 segundo, la promesa debe fallar con un mensaje de error. Usa `try/catch` para capturar y mostrar el error de forma legible.
 
-## **Ejercicio 8 - Módulos y Scope**
+## **Ejercicio 8 - Módulos y Scope** X
 
 - Divide el ejercicio de la clase `Vehiculo` en dos archivos. El primer archivo debe exportar la clase `Vehiculo`, y el segundo debe importar dicha clase y crear una instancia de un objeto `Auto` que herede de `Vehiculo`.
 
-## **Ejercicio 9 - Closures y Funciones Anidadas**
+## **Ejercicio 9 - Closures y Funciones Anidadas** X
 
 - Crea una función que devuelva una función interna. La función interna debe tomar un número y sumarlo a un valor inicial que fue pasado a la función externa. Prueba el comportamiento con varias invocaciones de la función interna.
 
-## **Ejercicio 10 - Eventos y Manipulación de DOM (Opcional)**
+## **Ejercicio 10 - Eventos y Manipulación de DOM (Opcional)** X
 
 - (Si ya trabajas con el DOM) Crea una página con tres botones que cambian el contenido de un `div` en función del botón que se presione. Implementa la funcionalidad sin usar React, solo con JavaScript puro.
 
